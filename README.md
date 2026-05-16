@@ -64,10 +64,9 @@ To analyze sales performance across pizza categories and sizes, identify top and
 - Highlights underperforming products for repositioning or discontinuation
 
 ## Dashboard Preview
+![dashboard](https://github.com/DataAnalyst-Komal/pizza-sales-analysis/blob/main/home_page.png)
+![dashboard](https://github.com/DataAnalyst-Komal/pizza-sales-analysis/blob/main/top_bottom_sellers.PNG)
 
-*(Add dashboard screenshot here)*
-
----
 
 ## Learnings
 
